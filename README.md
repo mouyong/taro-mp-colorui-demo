@@ -4,5 +4,8 @@
 
 ## 开发
 
-启动命令
+1. 安装依赖
+`yarn install`
+
+2. 启动命令
 `taro build --type h5 --watch`
